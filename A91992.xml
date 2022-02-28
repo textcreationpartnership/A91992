@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message from the estates of Scotland to the English commissioners at Edenburgh, by the Lord Lotherdale, the Lord Lanerick, Sir Charles Erskin, and Mr. Kennedy. Also the answer of the Earl of Nottingham and the rest of the English commissioners, to three propositions from the kingdom of Scotland. A declaration by the Scotch ministers against warre and raising of forces. And a proclamation from the estates of Scotland, published at the Market Crosse in Edenburgh. March 6. 1647. Imprimatur Gil. Mabbot.</title>
+            <author>Rosse, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91992</idno>
+            <idno type="STC">Wing R1990</idno>
+            <idno type="STC">Thomason E430_18</idno>
+            <idno type="STC">ESTC R206091</idno>
+            <idno type="EEBO-CITATION">99865278</idno>
+            <idno type="PROQUEST">99865278</idno>
+            <idno type="VID">161500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161500)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E430[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message from the estates of Scotland to the English commissioners at Edenburgh, by the Lord Lotherdale, the Lord Lanerick, Sir Charles Erskin, and Mr. Kennedy. Also the answer of the Earl of Nottingham and the rest of the English commissioners, to three propositions from the kingdom of Scotland. A declaration by the Scotch ministers against warre and raising of forces. And a proclamation from the estates of Scotland, published at the Market Crosse in Edenburgh. March 6. 1647. Imprimatur Gil. Mabbot.</title>
+                  <author>Rosse, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Will. Rosse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nottingham, Heneage Finch, --  Earl of, 1621-1682 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161500:1" rendition="simple:additions"/>
+            <p>A MESSAGE from the ESTATES of SCOTLAND TO THE Engliſh Commiſſioners at <hi>Edenburgh,</hi>
+By the Lord <hi>Lotherdale,</hi> the Lord <hi>Lanerick,</hi> Sir <hi>Charles Erskin,</hi> and Mr.
+<hi>Kennedy.</hi>
+            </p>
+            <p>ALSO The Anſwer of the Earl of <hi>Nottingham and the reſt of the Engliſh Commiſsioners,
+to three</hi> Propoſitions from the kingdom of <hi>Scotland.</hi>
+            </p>
+            <p>A Declaration by the Scotch Miniſters againſt warre and raiſing of Forces. And a
+Proclamation from the Eſtates of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> publiſhed at the Market Croſſe in
+<hi>Edenburgh.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <date>March 6. 1647.</date>
+                        </opener>
+                        <p>
+                           <hi>Imprimatur</hi>
+                        </p>
+                        <closer>
+                           <signed>Gil. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the
+Queens-head Tavern. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161500:2"/>
+            <pb n="1" facs="tcp:161500:2"/>
+            <head>The Copy of a LETTER FROM Mr. VVILLIAM ROSSE, Concerning <hi>The Affaires of SCOTLAND:</hi>
+Dated at <hi>Edenburgh,</hi> Feb. 29. 1648.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THe Grand Committee of the Eſtates of this Kingdome of <hi>Scotland,</hi> had on
+<hi>Tueſ<g ref="char:EOLhyphen"/>day</hi> laſt, <hi>Feb.</hi> 22. 1647. a great debate about the Reports made by the
+Lord Chancellor to them, concerning the Anſwer of the Eng<g ref="char:EOLhyphen"/>liſh Commiſſioners, to the
+Meſſage upon which his Lordſhip was ſent from the Con<g ref="char:EOLhyphen"/>vention of Eſtates.</p>
+            <pb n="2" facs="tcp:161500:3"/>
+            <p>And the <hi>Committee</hi> having now provided the Lord <hi>Aires</hi> houſe for them in the
+City, with accommoda<g ref="char:EOLhyphen"/>tions in ſome ſort ſutable, reſolved to give them an anſwer with all
+convenient ſpeed, And Inſtructions are gon out for fitting the houſe and equipage.</p>
+            <p>Prince <hi>Griffin</hi> is come to this City; It is ſaid hee would have raviſhed a Lady in
+<hi>England,</hi> and be<g ref="char:EOLhyphen"/>ing prevented killed a man, and is fled hither for re<g ref="char:EOLhyphen"/>fuge.</p>
+            <p>
+               <hi>Wedneſday</hi> the 23 of Feb. There was a great debate about the <hi>Engliſh</hi>
+Commiſſioners Papers. And di<g ref="char:EOLhyphen"/>vers ſpeeches wer made with ſweet notions for peace, which
+hath been preſſed by divers Earles and Lords <hi>viz.</hi> the Marquis of <hi>Arguile,</hi> the
+Lord <hi>Lothean,</hi> Lord <hi>Balmerinoth,</hi> the Lord <hi>Craford Lindſey,</hi> The Lord
+<hi>Twadeale,</hi> and others the moſt conſidearble Peeres in the Realme, as the Lord
+<hi>Belcarry,</hi> the Lord <hi>Yeſter,</hi> and others, who are much inclinable to peace, ſo
+that there is great hopes of a good accommodation if acti<g ref="char:EOLhyphen"/>ons wer according to the outward face of
+things here, according to the opinion of the moſt juditious mode<g ref="char:EOLhyphen"/>rate men.</p>
+            <p>It was declared before the Grand <hi>Committee</hi> of E<g ref="char:EOLhyphen"/>ſtates,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome of the ſaid Lords: That if any new
+breach ſhould <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made betweene the Kingdomes it
+would be the ruine of both, And that the Covenant doth expreſſely binde to peace, and amity;
+and if di<g ref="char:EOLhyphen"/>viſions ſhould come to a nationall quarrell, It would make both <hi>England</hi> and
+<hi>Scotland</hi> to bee the corne of Chriſtendome. Make way for the Antichriſtian party to
+come in again, and Tyrannize over the Church and People.</p>
+            <p>
+               <hi>Thurſday</hi> the 24 of Feb. There came Advertiſe<g ref="char:EOLhyphen"/>ments
+<pb n="3" facs="tcp:161500:3"/>to the Convention of Eſtates, That the
+<hi>Engliſh</hi> Northern Army had called a Councell of War upon notice from the South of
+<hi>Scotland,</hi> that divers of the Supernumeraries, that were disbanded in <hi>England,</hi>
+paſſed daily thorow <hi>Carliſle, Barwick</hi> and other wayes into this Kingdome out of
+<hi>England;</hi> in expectation (as they ſaid) to finde preferment in <hi>Scotland,</hi> turning
+their backs on the warme Sunne.</p>
+            <p>Which the Councell of Warre taking into conſide<g ref="char:EOLhyphen"/>ration, together with the great concourſe of
+Malig<g ref="char:EOLhyphen"/>nants about <hi>Edenburgh,</hi> it was reſolved that ſome Foot Companies of Souldiers
+ſhould bee ſent to the borders of <hi>Scotland</hi> to quarter at, and about, <hi>Hexam,
+Morreth</hi> and <hi>Alnwick,</hi> for ſecuring of thoſe parts from the inſulting of the
+Cavaleires, who are at preſent ſome what predominate in theſe parts.</p>
+            <p>But they are miſtaken (I hope) in thinking to finde a reception by the <hi>Scots,</hi> with
+them againſt whom they have covenanted, and joyned with the loſſe of ſo much blood as hath
+been ſpilt.</p>
+            <p>The <hi>Scots</hi> are (at preſent) very ſilent, for the Cler<g ref="char:EOLhyphen"/>gy (for the moſt part) have
+(upon the activity of Ma<g ref="char:EOLhyphen"/>lignants) changed their note, and are now for peace, onely two Miniſters
+of this City, are with ſome o<g ref="char:EOLhyphen"/>thers) averſe.</p>
+            <p>And the wives of <hi>Edenburgh</hi> and <hi>Leyth</hi> who carry a great ſway eſpecially at
+home do cry for peace, and ſay their husbands ſhall not fight.</p>
+            <p>
+               <hi>Friday</hi> the 25 of Feb. The Commiſſioners of the Kirke taking into conſideration
+that if an Army ſhould b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e raiſed, there
+muſt of neceſſity be received all the Malignants into their aſſiſtance to the
+<hi>Scots</hi> Army which wil be a deſtruction to al honeſt men: And ther<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:161500:4"/>the Divines have abſolutly declared that they
+will not make any warre againſt the honeſt Party in <hi>England,</hi> with whom they have
+joyned: ſo that our open or diſguiſed Malignants here, or in <hi>England</hi> are not like to
+prevaile, For the Miniſters (notwithſtand<g ref="char:EOLhyphen"/>ing their diſcontent) are now very much preſsing
+to the Eſtates, that there may not be an Army raiſed.</p>
+            <p>There are divers Engliſhmen (which have been of the Kings party) waiting at
+<hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi> indevouring miſchief, in expectation of a publique falling out between the
+king<g ref="char:EOLhyphen"/>domes. Here are, beſides Sir <hi>Lewis Dives,</hi> and the reſt, nominated in my laſt,
+Sir <hi>Timo<g ref="char:EOLhyphen"/>thy Fetherſton,</hi> and others of quality; but have every day leſſe hopes then
+other. The <hi>Scotch</hi> women ſtare upon Prince <hi>Griffin,</hi> as if he were ſome
+monſter, and ſome of the <hi>Scots</hi> Ladies dare ſcarſe be venturep in the City.</p>
+            <p>The Lord <hi>Chancellor</hi> hath made foure Knights, by Commiſsion from his Majeſty. Here
+are <hi>Chequer</hi> Knights; <hi>Iſle of Wyght</hi> Knights, &amp;c.</p>
+            <p>
+               <hi>Saturday</hi> the 26 of <hi>February,</hi> Proclamation
+<pb n="5" facs="tcp:161500:4"/>was made at the Market-croſſe at
+<hi>Edenburgh,</hi> by Order from the Convention of Eſtates, that the Parliament of
+<hi>Scotland,</hi> is to begin on Thurſday next: on which day the Lords of this kingdome doe
+intend to ride in their Robes in State.</p>
+            <p>The Marqueſſe of <hi>Argyle</hi> hath made two Propoſitions to the Eſtates, which are
+much liked.</p>
+            <p n="1">1. <hi>That the taking of the Covenant, and the keeping thereof, be made into an act by
+the kingdom of</hi> Scotland, And</p>
+            <p n="2">2. <hi>That by an Act there be a prohibition for to<g ref="char:EOLhyphen"/>leration of any Church Diſcipline at
+all, other then the Presbyterian, throughout the whole kingdome of</hi> Scotland.</p>
+            <p>On the Lords day <hi>Feb.</hi> 27. Mr. <hi>Herle,</hi> Pro<g ref="char:EOLhyphen"/>locutor to the Aſſembly at
+<hi>Weſtminſter</hi> in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> (being with the Engliſh Commiſsio<g ref="char:EOLhyphen"/>ners here,
+upon the deſire of the Miniſters of this place) preached in one of the <hi>Scots</hi>
+Con<g ref="char:EOLhyphen"/>gregations; and preached very ſtiffely againſt Sectaries, and other things were delivered
+by him, for which he was much applauded by divers Miniſters, and others of this kingdom.</p>
+            <pb n="6" facs="tcp:161500:5"/>
+            <p>Yeſterday the Committee of Eſtates ſent the Lords <hi>Lotherdale</hi> and
+<hi>Lanerick,</hi> Sir <hi>Charles Erskin,</hi> and Mr. <hi>Kennedy,</hi> to our Commiſſioners,
+to know what they had to offer to them, from the Parliament of <hi>England:</hi> our
+Commiſſioners delivered them three papers, The firſt intimating to them the deſire the
+Parliament of <hi>England</hi> had, to preſerve the union betwixt the two Nations; The ſecond
+concerning the payment of that 100000 li. which was due to them the third inſtant, which our
+Commiſſioners promiſed ſhould be paid to them as ſoon as it could poſsibly be raiſed
+by the Par<g ref="char:EOLhyphen"/>liament, and in the <hi>iuterim,</hi> 8 <hi>li. per cent.</hi> for forbea<g ref="char:EOLhyphen"/>rance: The
+third, concerning the payment of the <hi>Scots</hi> Army in Ireland; which papers they promiſed
+faithfully to report, and to return anſwer with all con<g ref="char:EOLhyphen"/>venient ſpeed.</p>
+            <p>The Committee of Eſtates have referred the tranſ<g ref="char:EOLhyphen"/>actions with the Engliſh
+Commiſſioners, to a Sub<g ref="char:EOLhyphen"/>committee, who are all the Commiſsioners they ſent into
+<hi>England,</hi> except two, and ſome others added, who are to make reports to the Parliament.
+The Earle of <hi>Stamford</hi> is not yet come hither.</p>
+            <p>This is all at preſent, as any thing occaſions, it ſhall be imparted to you by</p>
+            <closer>
+               <signed>Your affectionate Friend to ſerve you. <hi>WILL. ROSSE</hi>
+               </signed>
+               <dateline>
+                  <hi>Edenburgh.</hi>
+                  <date>29 <hi>of Feb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
